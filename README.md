@@ -4,7 +4,8 @@
 Using the [Kickstarter dataset](../main/data-1-1-3-StarterBook.xlsx) that we’ve already combed through, we’ll visualize campaign outcomes based on their launch dates and their funding goals.
 
 ### Purpose
-  Organize, sort, analyze crowdfunding data to determine outcomes based on goals and outcomes based on launch date. Refer to [Kickstarter_Challenge](../main/Kickstarter_Challenge.xlsx).
+  Organize, sort, analyze crowdfunding data to determine outcomes based on goals and outcomes based on launch date. 
+  Refer to [Kickstarter_Challenge](../main/Kickstarter_Challenge.xlsx).
 ## Analysis and Challenges
 1. Analysis of Outcomes Based on Launch Date
     - [PivotTable](../main/Resources/PivotTable_OutcomesBasedOnLaunchDate.png)
