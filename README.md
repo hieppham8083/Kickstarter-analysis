@@ -7,7 +7,7 @@ Using the Kickstarter dataset that we’ve already combed through, we’ll visua
 Organize, sort, analyze crowdfunding data to determine outcomes based on goals and     outcomes based on launch date.
 ## Analysis and Challenges
 1. Analysis of Outcomes Based on Launch Date
-    - [PivotTable](../main/Theater_Outcomes_By_Lunch_Date.xlsx)
+    - [PivotTable](../main/Resources/PivotTable_Outcomes Based on Launch Date.png)
 2. Analysis of Outcomes Based on Goals
 3. Challenges and Difficulties Encountered
 
