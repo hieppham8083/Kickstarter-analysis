@@ -32,5 +32,5 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
 
     Here are two tables and/or graphs that we could create
     
-    ![alt text](../main/Resources/Theater_Countries_By_LauchDate1.png "Theater_Countries_By_LauchDate")  ![alt text](../main/Resources/Countries_Vs_Outcomes.png "Countries_Vs_Outcomes")
+    ![alt text](../main/Resources/Theater_Countries_By_LauchDate2.png "Theater_Countries_By_LauchDate")  ![alt text](../main/Resources/Countries_Vs_Outcomes2.png "Countries_Vs_Outcomes")
 
