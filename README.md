@@ -1,15 +1,17 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Using the Kickstarter dataset that we’ve already combed through, we’ll visualize     campaign outcomes based on their launch dates and their funding goals.
+    Using the Kickstarter dataset that we’ve already combed through, we’ll visualize     campaign outcomes based on their launch dates and their funding goals.
 
 ### Purpose
-Organize, sort, analyze crowdfunding data to determine outcomes based on goals and     outcomes based on launch date.
+    Organize, sort, analyze crowdfunding data to determine outcomes based on goals and     outcomes based on launch date.
 ## Analysis and Challenges
 1. Analysis of Outcomes Based on Launch Date
     - [PivotTable](../main/Resources/PivotTable_OutcomesBasedOnLaunchDate.png)
     - [PivotChart](../main/Resources/Theater_Outcomes_vs_Launch.png)
 2. Analysis of Outcomes Based on Goals
+    - [PivotTable](../main/Resources/PivotTable_OutcomesBasedOnGoals.png)
+    - [PivotChart](../main/Resources/Outcomes_vs_Goals.png)
 3. Challenges and Difficulties Encountered
 
 ## Results
