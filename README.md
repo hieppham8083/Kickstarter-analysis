@@ -30,7 +30,7 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
 
 - What are some other possible tables and/or graphs that we could create?
 
-    Here are two tables and/or graphs that we could create
+    Here are two tables and/or graphs that we could create:
     
     ![alt text](../main/Resources/Theater_Countries_By_LauchDate2.png "Theater_Countries_By_LauchDate")  ![alt text](../main/Resources/Countries_Vs_Outcomes2.png "Countries_Vs_Outcomes")
 
