@@ -24,7 +24,7 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
     - No cancellation for October. 
 
 - What can you conclude about the Outcomes based on Goals?
-    - The more money goal, the less number successful and failed.
+    - The more money goal, the less number successful.
 
 - What are some limitations of this dataset?
 
