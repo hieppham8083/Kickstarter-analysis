@@ -14,6 +14,8 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
     - [PivotTable 2](../main/Resources/PivotTable_OutcomesBasedOnGoals.png)
     - [PivotChart 2](../main/Resources/Outcomes_vs_Goals.png)
 3. Challenges and Difficulties Encountered
+    - Filtering columns and clear filter.
+    - Place the appropriate pivot table fields in the columns, rows, and values.
 
 ## Results
 
