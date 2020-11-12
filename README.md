@@ -8,6 +8,7 @@ Organize, sort, analyze crowdfunding data to determine outcomes based on goals a
 ## Analysis and Challenges
 1. Analysis of Outcomes Based on Launch Date
     - [PivotTable](../main/Resources/PivotTable_OutcomesBasedOnLaunchDate.png)
+    - [PivotChart](../main/Resources/Theater_Outcomes_vs_Launch.png)
 2. Analysis of Outcomes Based on Goals
 3. Challenges and Difficulties Encountered
 
