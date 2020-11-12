@@ -20,8 +20,11 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+    - Most successful for May and June.
+    - No cancellation for October. 
 
 - What can you conclude about the Outcomes based on Goals?
+    - The more money goal, the less number successful and failed.
 
 - What are some limitations of this dataset?
 
