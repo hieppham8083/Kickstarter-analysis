@@ -27,6 +27,7 @@ Refer to [Kickstarter_Challenge.xlsx](../main/Kickstarter_Challenge.xlsx).
     - The more money goal, the less number successful.
 
 - What are some limitations of this dataset?
+    - Place the appropriate pivot table fields in the columns, rows, and values.
 
 - What are some other possible tables and/or graphs that we could create?
 
